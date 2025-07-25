@@ -13,10 +13,6 @@ section header{
         width: 16px;
         height: 16px;
     }
-
-    &:hover span{
-        background-image: url(/assets/icons/seta-direita.svg);
-    }
 }
 }
 
